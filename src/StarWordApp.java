@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StarWordAppTest {
+public class StarWordApp {
 
 	public static void main(String[] args) {
 		// declare local variables
